@@ -19,3 +19,6 @@ Imputation :
 * Training data is further divided into training and validation data
 * Bulid the Neural Network Model to predict missing value.
 
+Final submmition result :
+* RMSE = 0.83554
+* Rank = 45/844(Top 6%)
