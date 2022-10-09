@@ -11,8 +11,8 @@ EDA :
 
 Imputation :
 * Split data to two part  
-    Data with no missing values as training data  
-    Data with missing values as testing data
+    * Data with no missing values as training data  
+    * Data with missing values as testing data
 * Calculate the number of missing values for each feature in testing data.
 * Remove features with missing values in testing data.
 * Remove features with missing values as X for training data, features with missing values as Y for training data.
